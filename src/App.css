@@ -19,15 +19,16 @@ body{
 }
 
 #weatherBox{
-
+    height: 300px;
+    width: 300px;
 }
 
-.freezing{
-    
+.freezingxxxx{
+    background-color: aqua;
 }
-.fair{
-
+.FAIR{
+    background-color: orange;
 }
-.hell-scape{
-
+.ESCAPE{
+    background-color: orangered;
 }
